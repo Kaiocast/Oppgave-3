@@ -18,4 +18,6 @@
 # 6. i if stameten lager du varibel med navn svar og den skal være lik rn.choice() og i parantesen skriver du hva du vil
 # 7. i else stamaten skriver du at den skal printe ut "try again later"
 # 8. det navnet du valgte å skrive i paranktesen i rn.choice skriver du nå i ordbok.py og lager en liste med det navnet 
-# 9. i denne liseten sakl det skrive svar på spørsmålet og liten burde se ca sån ut: "navn på liset går her" = ["svar 1", "svar 2"]
+# 9. i denne liseten sakl det skrive svar på spørsmålet og listen burde se ca sån ut: "navn på liset går her" = ["svar 1", "svar 2"]
+# 10. su åpner terminaler og skriver: python chatbot.py og trykker enter
+# 11. for å sjekke om det fungerer skriver du inn navet på listen og hvis en av svarene du skrev etter at du trykket enter så har du gjort det riktig.
